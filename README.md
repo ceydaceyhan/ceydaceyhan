@@ -25,7 +25,7 @@
   <h3 align="left">Programming Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/muhammed-elsami/">
+  <a href="https://www.linkedin.com/in/ceyda-ceyhan-a8934b226/">
     <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,sqlite,firebase,git,github" />
   </a>
 </p>
