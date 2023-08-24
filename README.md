@@ -13,7 +13,7 @@
 
 </p>
 
-- 💻 I’m currently learning Kotlin
+- 💻 I’m currently learning React
 - 📫 How to reach me: ceydaceyhan2001@gmail.com 
 - ⚡ Fun fact: I really like to watch series!
 >
@@ -26,6 +26,6 @@
 
 <p align="left">
   <a>
-    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,sqlite,firebase,git,github" />
+    <img src="https://skillicons.dev/icons?i=react,kotlin,java,androidstudio,sqlite,firebase,git,github" />
   </a>
 </p>
